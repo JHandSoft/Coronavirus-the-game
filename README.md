@@ -1,2 +1,2 @@
-# Coronavirus the game
- My first game about a white blood cell that has to scape from coronaviruses
+# Coronavirus-the-game
+My first game. Made with python3 and pygame during quarantine when I was in 4th of secondary school.
